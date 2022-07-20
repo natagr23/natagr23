@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I´m Natalia García.
 
 <!--
 **natagr23/natagr23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ A frontend developer from Colombia
+-🌱 I’m currently learning React, Web Development & APIs
+-📫 How to reach me: nata_garcia23@hotmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natagr23&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=Agro_App&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=my-portafolio-with-react&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natagr23&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me:
+
+### Languages and Tools:
+
+### Portfolio/ My Work
