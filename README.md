@@ -1,4 +1,4 @@
-### Hi there 👋 I´m Natalia García.
+### ⚡✨ Hi there 👋 I´m Natalia García.
 
 <!--
 **natagr23/natagr23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
