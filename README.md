@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- A frontend developer from Colombia
--🌱 I’m currently learning React, Web Development & APIs
--📫 How to reach me: nata_garcia23@hotmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natagr23&show_icons=true&theme=dracula)](https://github.com/natagr23/Agro_App)
+ 
+|  A frontend developer from Colombia |
+| ----- |
+|  | 
+|🌱 I’m currently learning React, Web Development & APIs | 
+📫 How to reach me: nata_garcia23@hotmail.com|
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=Agro_App&theme=cobalt)](https://github.com/natagr23/Agro_App)
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natagr23&show_icons=true&theme=dracula)](https://github.com/natagr23/Agro_App)|
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=Agro_App&theme=cobalt)](https://github.com/natagr23/Agro_App)|
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=my-portafolio-with-react&theme=cobalt)](https://github.com/natagr23/my-portafolio-with-react)
 
