@@ -43,9 +43,10 @@ Here are some ideas to get you started:
 ![This is an image](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![This is an image](https://badges.aleen42.com/src/react.svg)
 
-![This is an image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![This is an image](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![This is an image](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![This is an image](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![This is an image](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwind&logoColor=white)
+![This is an image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ![This is an image](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![This is an image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
