@@ -53,4 +53,6 @@ Here are some ideas to get you started:
 
 ### Portfolio/ My Work
 
-[![Agro_App2](https://user-images.githubusercontent.com/16936525/180103220-e814e6fa-4bf1-470c-8425-77198ba0e9bf.JPG)](https://github.com/natagr23/Agro_App)
+https://user-images.githubusercontent.com/16936525/180281789-3c2f3633-53b1-49a0-b194-f1f16edc8467.mp4 
+
+Source: https://github.com/natagr23/Agro_App
