@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [![This is an image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliagarciarosas/)
+[![This is an image](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/natagr)
+[![This is an image](https://img.shields.io/badge/researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Natalia-Garcia-18)
 
 ### Languages and Tools:
 
