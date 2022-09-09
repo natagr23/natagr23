@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natagr23&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=Agro_App&theme=dracula)](https://github.com/natagr23/Agro_App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=React-portafolio-with-mui&theme=dracula)](https://github.com/natagr23/React-portafolio-with-mui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=old-photos&theme=dracula)](https://github.com/natagr23/old-photos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=portafolio-carbon&theme=dracula)](https://github.com/natagr23/portafolio-carbon)
 
 
 ### Connect with me:
