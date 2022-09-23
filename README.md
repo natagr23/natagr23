@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=Agro_App&theme=dracula)](https://github.com/natagr23/Agro_App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=old-photos&theme=dracula)](https://github.com/natagr23/old-photos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=weather-statistics&theme=dracula)](https://github.com/natagr23/weather-statistics)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=portafolio-carbon&theme=dracula)](https://github.com/natagr23/portafolio-carbon)
 
 
