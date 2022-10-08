@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |  A frontend developer from Colombia |
 | ----- |
 |  | 
-|🌱  I’m currently exploring opportunities | 
+|🔭  I am looking for a junior web developer position! | 
 📫 How to reach me: nata_garcia23@hotmail.com|
 
 ### My GitHub Stats
