@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
  
-|  A frontend developer from Colombia |
+|  A React developer building personal web projects  |
 | ----- |
 |  | 
 |🔭  I am looking for a junior web developer position! | 
