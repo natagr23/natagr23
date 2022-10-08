@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |  A frontend developer from Colombia |
 | ----- |
 |  | 
-|🌱 I’m currently learning React, Web Development & APIs | 
+|🌱  I’m currently exploring opportunities | 
 📫 How to reach me: nata_garcia23@hotmail.com|
 
 ### My GitHub Stats
