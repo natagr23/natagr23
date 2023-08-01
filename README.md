@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |  A React developer building personal web projects  |
 | ----- |
 |  | 
-|🔭  I am looking for a junior web developer position | 
+|🔭  I am looking for a junior AWS Engineer position | 
 📫 How to reach me: nata_garcia23@hotmail.com|
 
 ### My GitHub Stats
