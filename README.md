@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natagr23&show_icons=true&theme=dracula)](https://github.com/natagr23/Agro_App)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natagr23&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=timeline-nextjs&theme=dracula)](https://github.com/natagr23/timeline-nextjs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=amplify-nextjs-app&theme=dracula)](https://github.com/natagr23/amplify-nextjs-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=Agro_App&theme=dracula)](https://github.com/natagr23/Agro_App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natagr23&repo=old-photos&theme=dracula)](https://github.com/natagr23/old-photos)
