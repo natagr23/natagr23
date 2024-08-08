@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 
 ### Portfolio/ My Work
 
-## AgroStore with Maps
+#### AgroStore with Maps
 https://user-images.githubusercontent.com/16936525/180281789-3c2f3633-53b1-49a0-b194-f1f16edc8467.mp4 
 
 Source: https://github.com/natagr23/Agro_App
 
-## Timeline of Prophecies last times
+#### Timeline of Prophecies last times
 https://github.com/user-attachments/assets/1aea9cfb-1b5f-4c30-ba0a-b186840d11eb
 
 Source: https://github.com/natagr23/timeline-nextjs
